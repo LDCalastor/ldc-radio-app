@@ -29,9 +29,9 @@ Une alternative pour écouter de la musique sans contraintes, directement sur le
 
 ## 📱 Compatibilité
 
-- Desktop
-- Mobile
-- Tablette
+- Desktop (site web + app)
+- Mobile (site web)
+- Tablette (site web)
 
 ---
 
